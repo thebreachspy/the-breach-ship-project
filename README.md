@@ -5,7 +5,7 @@ Remember: Do not use this to hack people!
 First you will need some things:
 
 1. Download and install Wamp;
-2. Download this tool and move to www folder (all resources) password: "thebreachship";
+2. Download this tool and move to www folder (all resources);
 3. Insert your .sql files into db. You will need a db manager for this. (parsed files only);
 4. After insert your files, open browser at localhost;
 5. Seek by anything.
