@@ -1,5 +1,6 @@
-Hey user, i will present you this powerful and harmful backend software: this will help you to seek by anything over the world!
+Hey user, i will present you this powerful and harmful ethical hacking software: this will help you to seek by anything over the world!
 With this tool you can find ULP (url, login, password) from everybody. This tool enables you to find leaks in .sql private DBs.
+Remember: Do not use this to hack people!
 
 First you will need some things:
 
@@ -19,3 +20,4 @@ I've measured in one of my machines the requisits:
 
 So if you want this process to be quick, use a SSD NVME 2 PCI 3.0+ and a high speed processor, it will certainly be more fast,
 resulting in seconds your results.
+
