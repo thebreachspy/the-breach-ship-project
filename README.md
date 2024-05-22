@@ -18,6 +18,6 @@ I've measured in one of my machines the requisits:
 
 * Intel processor 4 cores 3.20ghz + HDD 500GB R/W speed=100Mbps + .sql file w/ 30 GBs ---> 7min++ to show results. (Windows).
 
-So if you want this process to be quick, use a SSD NVME 2 PCI 3.0+ and a high speed processor, it will certainly be more fast,
-resulting in seconds your results.
+So if you want this query process to be quick, use a SSD NVME 2 PCI 3.0+ and a high speed processor, it will certainly be more fast,
+showings queries results in few seconds.
 
